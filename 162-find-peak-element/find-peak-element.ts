@@ -9,32 +9,6 @@ function findPeakElement(nums: number[]): number {
         // return 0
         return 0;
     }
-    // // if nums array length is 2
-    // if (nums.length === 2) {
-    //     // if nums[0] is greater than or equal to nums[1]
-    //     if (nums[0] >= nums[1]) {
-    //         // return 0
-    //         return 0;
-    //     } else {
-    //         // otherwise return 1
-    //         return 1
-    //     }
-    // }
-    // // if nums array length is 3
-    // if (nums.length === 3) {
-    //     // if nums[1] is greater than nums[0] and nums[2]
-    //     if (nums[1] > nums[0] && nums[1] > nums[2]) {
-    //         // return 1
-    //         return 1;
-    //     }
-    //     // if nums[0] is greater than nums[2]
-    //     if (nums[0] > nums[2]) {
-    //         // return 0
-    //         return 0;
-    //     }
-    //     // otherwise return 2
-    //     return 2;
-    // }
 
     // create peakIndexArray variable
     const peakIndexArray: number[] = [];
