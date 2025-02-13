@@ -29,6 +29,9 @@
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you find an <code>O(n + m)</code> solution?
 
-<p>&nbsp;</p>
+<hr/>
 
 <strong>Time: 0 ms (100.00%) | Memory: 51.9 MB (82.46%) - LeetSync</strong>
+
+<img src='https://img.shields.io/badge/Time-0ms_%28100.0%25%29-brightgreen' alt='Time: 0ms (100.0%)' />
+<img src='https://img.shields.io/badge/Memory-51.9MB_%2882.46%25%29-brightgreen' alt='Memory: 51.9MB (82.46%)' />
