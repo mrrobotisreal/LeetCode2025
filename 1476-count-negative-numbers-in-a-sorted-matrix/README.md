@@ -28,3 +28,7 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you find an <code>O(n + m)</code> solution?
+
+<p>&nbsp;</p>
+
+<strong>Time: 0 ms (100.00%) | Memory: 51.9 MB (82.46%) - LeetSync</strong>
