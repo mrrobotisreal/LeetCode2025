@@ -29,3 +29,9 @@
 	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
 	<li><code>nums[i] != nums[i + 1]</code> for all valid <code>i</code>.</li>
 </ul>
+
+<hr/>
+
+<img src='https://img.shields.io/badge/Time-0ms_%28100.0%25%29-brightgreen' alt='Time: 0ms (100.0%)' />
+
+<img src='https://img.shields.io/badge/Memory-52.31MB_%286.72%25%29-red' alt='Memory: 52.31MB (6.72%)' />
