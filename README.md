@@ -11,6 +11,7 @@
 
 ## Easy
 
+- [Middle of the Linked List](https://github.com/mrrobotisreal/LeetCode2025/tree/main/908-middle-of-the-linked-list)
 - [Balanced Binary Tree](https://github.com/mrrobotisreal/LeetCode2025/tree/main/110-balanced-binary-tree)
 - [Invert Binary Tree](https://github.com/mrrobotisreal/LeetCode2025/tree/main/226-invert-binary-tree)
 - [Subtree of Another Tree](https://github.com/mrrobotisreal/LeetCode2025/tree/main/572-subtree-of-another-tree)
