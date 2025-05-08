@@ -11,6 +11,7 @@
 
 ## Easy
 
+- [Remove Duplicates from Sorted Array](https://github.com/mrrobotisreal/LeetCode2025/tree/main/26-remove-duplicates-from-sorted-array)
 - [Middle of the Linked List](https://github.com/mrrobotisreal/LeetCode2025/tree/main/908-middle-of-the-linked-list)
 - [Balanced Binary Tree](https://github.com/mrrobotisreal/LeetCode2025/tree/main/110-balanced-binary-tree)
 - [Invert Binary Tree](https://github.com/mrrobotisreal/LeetCode2025/tree/main/226-invert-binary-tree)
