@@ -1,6 +1,7 @@
 # LeetCode 2025 Adventures!
 
 ## Hard
+- [Sliding Window Maximum](https://github.com/mrrobotisreal/LeetCode2025/tree/main/239-sliding-window-maximum)
 - [Word Search II](https://github.com/mrrobotisreal/LeetCode2025/tree/main/212-word-search-ii)
 
 ## Medium
