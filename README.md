@@ -8,6 +8,7 @@
 
 ## Medium
 
+- [Course Schedule](https://github.com/mrrobotisreal/LeetCode2025/tree/main/207-course-schedule)
 - [Binary Tree Right Side View](https://github.com/mrrobotisreal/LeetCode2025/tree/main/199-binary-tree-right-side-view)
 - [Binary Tree Zigzag Level Order Traversal](https://github.com/mrrobotisreal/LeetCode2025/tree/main/103-binary-tree-zigzag-level-order-traversal)
 - [Binary Tree Level Order Traversal](https://github.com/mrrobotisreal/LeetCode2025/tree/main/102-binary-tree-level-order-traversal)
