@@ -2,6 +2,7 @@
 
 ## Hard
 
+- [Longest Increasing Path in a Matrix](https://github.com/mrrobotisreal/LeetCode2025/tree/main/329-longest-increasing-path-in-a-matrix)
 - [Minimum Window Substring](https://github.com/mrrobotisreal/LeetCode2025/tree/main/76-minimum-window-substring)
 - [Sliding Window Maximum](https://github.com/mrrobotisreal/LeetCode2025/tree/main/239-sliding-window-maximum)
 - [Word Search II](https://github.com/mrrobotisreal/LeetCode2025/tree/main/212-word-search-ii)
